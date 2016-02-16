@@ -1,6 +1,8 @@
-======================
-varnish-vcl-collection
-======================
+=====================================
+Varnish 4 configuration for Wordpress
+=====================================
+
+Work in progress. Took Dreamhost VCL and adapted for Varnish 4.
 
 Collection of Varnish VCL files.  The purpose of this collection is to make
 it easier to configure varnish for some common setups and behaviors.  Some
